@@ -1,10 +1,16 @@
 _repo: Dr-Mabuse-der-Spieler_50285
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50285-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Jacques, Norbert
     gutenberg_agent_id: '45794'
     url: http://www.gutenberg.org/2009/agents/45794
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50285#Dr-Mabuse-der-Spieler
 gutenberg_issued: '2015-10-22'
 gutenberg_type: Text
 identifiers:
